@@ -22,7 +22,9 @@ Please download Python from [this](https://www.python.org/downloads/) link.
 After going through the installation process, open up Python's built-in IDLE (integrated development and learning environment). Get used to this, as it'll be your new home for the duration of this club.
 
 It should look a little something like this:
+
 ![Python IDLE](https://www.w3resource.com/w3r_images/python-shell.png)
+
 Except, obviously, the version may be different.
 
 This "Python Shell" is where you can type in Python code. After typing in a line of code, press enter and the shell will _interpret_ the text as Python code and spit out an output.
