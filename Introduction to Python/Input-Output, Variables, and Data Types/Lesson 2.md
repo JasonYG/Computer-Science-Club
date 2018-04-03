@@ -25,4 +25,12 @@ Take a look at this piece of code:
 ```Python
 input("What is your name?")
 ```
-Analyzing this code bit by bit, 
+Analyzing this code bit by bit, we can see that there is still the input function, _input()_, but the function has an _argument_, that is the words written inside the brackets: _"What is your name?"_
+
+Similarly to the **print()** function, the input function may take in a **string** as an argument, but the string doesn't always have to be there. 
+
+This function, **input()**, is pretty much all there is to Python input. Output in Python is just the print function (it prints, or _outputs_, something to the screen).
+
+Variables
+---
+To do
