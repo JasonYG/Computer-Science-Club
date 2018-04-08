@@ -33,4 +33,50 @@ This function, **input()**, is pretty much all there is to Python input. Output 
 
 Variables
 ---
-To do
+In programming, you'll often run into situations where you'll have to store data to be used later - to do this, we use **variables**. Like in math class, variables represent data that can change. Let's say that we wanted to print out the user's name after they inputted it into our program. What we would do is create a variable that stores the user's name, then print it to the screen.
+
+To create variables in Python, all we have to do is use whatever variable name we want, and assign some data to it.
+
+The general syntax goes:
+
+```Python
+name = "Fred"
+```
+_name_ would be what we call our variable - this can be anything we want it to be. I could've had the variable name be _soup_ or _asjkhdaksdhkl_, or anything, but I chose to use a descriptive name that lets others reading your code know what the variable is representing. It's important to use appropriate names for your variables, so that others who read your code know what's going on.
+
+If we wanted the variable _name_ to store what the user inputted as their name, we can do this:
+
+```Python
+name = input("What is your name?")
+```
+Now, whenever we refer back to the variable _name_ in our program, it will contain the data that the user inputted. To see this, we could print _name_:
+
+```Python
+name = input("What is your name?")
+print(name)
+```
+
+![Printing out the user's name](https://i.gyazo.com/b81d62c2350d21b760a0de392711effe.png)
+
+Note that I do not have quotation marks surrounding _name_, because I want the program to print out the variable _name_, not the word "name". Try running print("name") and print(name).
+
+If we wanted to output something else along with the user's name, what we can do is use **concatenation**. This means combining two strings together to form one longer string.
+
+For example, if I wanted to print out "Hello Fred", what I would do is add "Hello " to the variable _name_. To do this, I would use the addition operator, +, to combine the strings together.
+
+```Python
+name = input("What is your name?")
+print("Hello " + name)
+```
+
+![Printing Hello Fred](https://i.gyazo.com/c0f2cd847f0b04ee6614bd5137181283.png)
+
+Data Types
+---
+Variables can store many different types of data. We've covered _strings_, but there are many other types as well.
+
+Here is a table summarizing the common types of data:
+
+_To be continued_
+
+
