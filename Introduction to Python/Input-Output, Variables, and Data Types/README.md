@@ -77,6 +77,15 @@ Variables can store many different types of data. We've covered _strings_, but t
 
 Here is a table summarizing the common types of data:
 
-_To be continued_
+| Data Type     | Description   |
+| ------------- |---------------|
+| **String**    | A string is a sequence of characters, and they often represent text and words, although numbers can be strings too. For example: "Python is a huge snake that has 7 wings and 32 teeth". We can recognize strings by the single or double quotation marks. |
+| **Int**eger   | An integer is a number that has no decimal places. For example: 8 is an integer, but 8.0 is not.      |
+| **Float**     | A float, or floating point, is a number that **does** contain decimal places. 8.0 would be a float because it contains a decimal place, even though it's a zero.       |
+| **Bool**ean   | A boolean is a data type with only 2 possible values: **True** and **False**. These can come in handy for **conditional statements**, which will be discussed in a future lesson. |
 
+Remember that when you're dealing with data types, you can only deal with one at a time. You can add two integers together, or two strings together, but you can't add a string and an integer. There are some exceptions, however, like when you add an integer and a float together.
 
+In Python, there are built-in functions to force data to be of a certain type. The **str()**, **int()**, **float()**, and **bool()** functions force data to be strings, integers, floating point numbers, and booleans respectively. You can run into errors when using these functions. If, for example, you forced the string "Fred" to become an integer, Python would throw an error because "Fred" clearly is not a number. 
+
+For more examples of code, refer to sample.py.
