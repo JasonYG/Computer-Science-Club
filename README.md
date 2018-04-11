@@ -8,7 +8,7 @@ This page will be updated as time goes on.
 
 Next Meeting
 ---
-To be announced.
+**April 12, 2018**
 
 Previous Meetings
 ---
