@@ -8,7 +8,7 @@ This page will be updated as time goes on.
 
 Next Meeting
 ---
-**April 12, 2018**
+~~**April 12, 2018**~~ Meeting cancelled.
 
 Previous Meetings
 ---
