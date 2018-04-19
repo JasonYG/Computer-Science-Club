@@ -8,7 +8,7 @@ This page will be updated as time goes on.
 
 Next Meeting
 ---
-~~**April 12, 2018**~~ Meeting cancelled.
+**April 19, room 206 at the beginning of lunch**
 
 Previous Meetings
 ---
