@@ -10,7 +10,7 @@ This page will be updated as time goes on.
 
 Next Meeting
 ---
-**April 19, room 206 at the beginning of lunch**
+**May 3, room 206 at the beginning of lunch**
 
 Previous Meetings
 ---
@@ -19,4 +19,4 @@ Previous Meetings
 
 Kahoot Champions
 ---
-April 19, 2018 - ???
+April 19, 2018 - Jesse
