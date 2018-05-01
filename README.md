@@ -10,7 +10,7 @@ This page will be updated as time goes on.
 
 Next Meeting
 ---
-**May 3, room 206 at the beginning of lunch**
+**Thursday, May 3, room 206 at the beginning of lunch**
 
 Previous Meetings
 ---
