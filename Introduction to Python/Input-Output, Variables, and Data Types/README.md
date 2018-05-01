@@ -89,3 +89,9 @@ Remember that when you're dealing with data types, you can only deal with one at
 In Python, there are built-in functions to force data to be of a certain type. The **str()**, **int()**, **float()**, and **bool()** functions force data to be strings, integers, floating point numbers, and booleans respectively. You can run into errors when using these functions. If, for example, you forced the string "Fred" to become an integer, Python would throw an error because "Fred" clearly is not a number. 
 
 For more examples of code, refer to sample.py.
+
+Exercises
+---
+1. Ask the user for their name. Greet the person by name in the console.
+2. Print the user's age in 10 years, 20 years, 20000000 years, and dog years.
+3. **Challenge**: Create a quadratic formula calculator, where the user inputs the 'a', 'b', and 'c' values of the equation, and the console would print the roots. 
