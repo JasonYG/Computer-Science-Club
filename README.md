@@ -1,6 +1,6 @@
 JFSS-Computer-Science
 ---
-This repository contains all the resources used in the John Fraser Computer Science club. 
+This repository contains all the resources used in the John Fraser Computer Science club from the 2017-2018 school year. 
 
 The link to the powerpoint detailing all club information can be found [here](https://goo.gl/uJyiEY).
 
@@ -10,7 +10,7 @@ This page will be updated as time goes on.
 
 Next Meeting
 ---
-**Thursday, May 24, room 206 at the beginning of lunch**
+**Done for the year**
 
 Previous Meetings
 ---
@@ -18,7 +18,8 @@ Previous Meetings
 2. **April 19, 2018** - Reviewed print statements, data types, and if statements with a [kahoot](https://play.kahoot.it/#/k/b2dda093-b51d-4a3d-bda2-eb81705a13b2). We practiced our understanding with programming challenges.
 3. **May 3, 2018** - Learned about for loops and while loops, and started working on [this](http://www.cemc.uwaterloo.ca/contests/computing/2017/stage%201/juniorEF.pdf#page=3) problem.
 4. **May 10, 2018** - Introduced the [CCC Grader](http://cccgrader.com/), and worked on the [problem from last week](http://www.cemc.uwaterloo.ca/contests/computing/2017/stage%201/juniorEF.pdf#page=3).
+5. **May 24, 2018** - Learned about lists and functions. Final meeting of the year.
 
-Kahoot Champions
+Kahoot Champion
 ---
 April 19, 2018 - Jesse
