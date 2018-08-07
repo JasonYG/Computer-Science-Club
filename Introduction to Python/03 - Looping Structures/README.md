@@ -43,6 +43,6 @@ while True:
     break
 ```
 
-We are repeatedly asking the user for their `favourite_snake`. If they don't answer with 'Python', then we keep on asking them for their name. 
+We are repeatedly asking the user for their `favourite_snake`. If they don't answer with 'Python', then we keep on asking them for their `favourite_snake`. 
 
 
