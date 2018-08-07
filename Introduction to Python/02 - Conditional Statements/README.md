@@ -77,7 +77,7 @@ if age > 30:
 
 To resolve this problem, we have to use an **elif statement**. Here is a flowchart that illustrates how it works:
 
-~[elif flowchart](http://www.openbookproject.net/books/bpp4awd/_images/flowchart_chained_conditional.png)
+![elif flowchart](http://www.openbookproject.net/books/bpp4awd/_images/flowchart_chained_conditional.png)
 
 First the program would check one condition. Then, if that condition was not met, then it would check the second condition, and so on. If that condition was met, however, every other **linked** condition (all the elif statements after) would be skipped.
 
