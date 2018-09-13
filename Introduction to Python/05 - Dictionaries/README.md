@@ -21,4 +21,6 @@ fruit_lengths = {'apples': [1, 4, 10, 17, 54], 'bananas': [2, 3, 1, 5, 7], 'oran
 print(fruit_lengths['apples'][2])
 ```
 
-Dictionaries, like lists, can have many things as values. You can have a  
+Dictionaries, like lists, can have many things as values. You can have a list as a value, or even a dictionary! But, the key **cannot be a list or a dictionary**. 
+
+
