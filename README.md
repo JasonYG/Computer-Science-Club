@@ -8,9 +8,11 @@ Please fill out [this](https://drive.google.com/open?id=1ZNMRf6A26U0Sfcl_VRzdBuA
 
 This page will be updated as time goes on.
 
+Please join the [Slack](https://join.slack.com/t/jfss-compsci/shared_invite/enQtNDM3MzY1Mzk1ODExLWYzM2ZjYzA3N2ViYzM5ZmMyZWYxZTMzMDZmMGI2YTllMDY2NDA4ZGY5NmI2MjM3OGY1YWI5ZmY3MmEzOThmODI) channel, the main communication platform that our club will be using.
+
 Next Meeting
 ---
-Tuesday, Sept. 18 in room 206
+Tuesday, Sept. 25 in room 206
 
 Previous Meetings
 ---
