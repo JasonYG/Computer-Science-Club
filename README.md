@@ -10,7 +10,7 @@ This page will be updated as time goes on.
 
 Next Meeting
 ---
-**To be announced**
+Tuesday, Sept. 18 in room 206
 
 Previous Meetings
 ---
