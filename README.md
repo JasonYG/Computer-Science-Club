@@ -35,3 +35,11 @@ Tuesday, Sept. 25 in room 206
 Previous Meetings
 ---
 1. **Sept 17** - Introduction to Computer Science Club, club members asked to fill out survey and join the Slack channel.
+
+Useful Downloads
+---
+You can download Python from [here](https://www.python.org/downloads/), the main programming language of Computer Science Club.
+
+You can download GitHub desktop from [here](https://desktop.github.com/), which will be useful in submitting pull requests to the repository.
+
+
