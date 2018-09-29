@@ -33,7 +33,7 @@ Immediately after exiting the time machine you are greeted with the sound of thu
 
 Each road costs a different amount so how can you come up with a plan to save the village money and solve their problem of having no roads?
 
-<img src="story.png" width="800">
+<img src="story.PNG" width="800">
 
 *Image: The University of Texas at Dallas, Sergey Bereg: Minimum Spanning Tree*
 
@@ -49,7 +49,7 @@ Let's think of what we need in this Edge class:
 
 The **beginning vertex (bv)** connects to the **ending vertex (ev)** and forms an **edge with a weight (cost)**.
 
-<img src="Kruskal_1.png" width="500">
+<img src="Kruskal_1.PNG" width="500">
 
 In the image above, we observe that for any edge, there is a beginning vertex, ending vertex and weight.
 
@@ -195,7 +195,7 @@ Remember the [time](#Story) you convinced a mayor in ancient China to build road
 
 The village architect gives you an estimate (a very accurate estimate) of the cost to build roads between buildings, she presents to you the following map:
 
-<img src="village_graph.png" width="500">
+<img src="village_graph.PNG" width="500">
 
 From the map, you quickly write down the vertices and edges information in the following format:
 
@@ -278,43 +278,43 @@ Alright, here's when Kruskal's algorithm **REALLY** begins, it's a greedy algori
 
 Now you check if adding this road to the MST will create a **cycle**. In other words, if adding the road will form a loop in a graph. Since this is our first road in the MST, it obviously doesn't form a **cycle**, so we're safe to add it.
 
-<img src="village_step1.png" width="300">
+<img src="village_step1.PNG" width="300">
 
 Looks like we have a lot more roads to check, so we have to keep going. Let's look at our table and pick the next cheapest road to build.
 
 > **Road #19**, *Lookin' good*
 
-<img src="village_step2.png" width="300">
+<img src="village_step2.PNG" width="300">
 
 There are 9 vertices in this graph, so we need 8 edges in our MST. We only have 2 so far, 6 more to go!
 
 > **Road #3**, *Very nice*
 
-<img src="village_step3.png" width="300">
+<img src="village_step3.PNG" width="300">
 
 I think you get the idea: check table for the next lowest cost edge, make sure it doesn't form a cycle when added to the MST, if it does, DO NOT add it.
 
-<img src="village_step4.png" width="300">
+<img src="village_step4.PNG" width="300">
 
 Looks good so far, we haven't encountered a cycle yet.
 
-<img src="village_step5.png" width="300">
+<img src="village_step5.PNG" width="300">
 
 **Road #4** does not form a cycle, so we can add it to the MST.
 
-<img src="village_step6.png" width="300">
+<img src="village_step6.PNG" width="300">
 
 Uh oh, **Road #2** forms a cycle when we add it to the MST! We must remove it!
 
-<img src="village_step7.png" width="300">
+<img src="village_step7.PNG" width="300">
 
 Much better, we've removed **Road #2** from the MST and added **Road #10** that doesn't form a cycle.
 
-<img src="village_step8.png" width="300">
+<img src="village_step8.PNG" width="300">
 
 Ok, we are done our MST because all the vertices are connected!
 
-<img src="village_step9.png" width="300">
+<img src="village_step9.PNG" width="300">
 
 ---
 
@@ -413,7 +413,7 @@ The next **E** lines will contain the beginning vertex, ending vertex and cost o
 
 Checking with our completed graph we can see that our program outputs the correct MST:
 
-<img src="village_step9.png" width="300">
+<img src="village_step9.PNG" width="300">
 
 ---
 
