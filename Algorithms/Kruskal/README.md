@@ -6,13 +6,13 @@ Kruskal's algorithm is used to find the minimum-spanning-tree (MST) of a connect
 - **Skills** - Classes and Interfaces, [Disjoint-Set](https://en.wikipedia.org/wiki/Disjoint_sets) data structure, Graphs
 
 ## Table of contents
-- [Minimum-spanning-tree (MST)](#Minimum-spanning-tree)
-- [Story time!](#Story)
-- [Setup](#Setup)
-- [Algorithm](#Algorithm)
-- [Testing the code](#Testing-the-code)
-- [Full source code](#Source-code)
-- [Practice](#Practice)
+- [Minimum-spanning-tree (MST)](#minimum-spanning-tree)
+- [Story time!](#story)
+- [Setup](#setup)
+- [Algorithm](#algorithm)
+- [Testing the code](#testing-the-code)
+- [Full source code](#source-code)
+- [Practice](#practice)
 
 
 ---
@@ -417,7 +417,7 @@ Checking with our completed graph we can see that our program outputs the correc
 
 ---
 
-## Souce code
+## Source code
 Feel free to check out the full source code [here](KruskalLesson.java).
 
 ---
@@ -426,14 +426,14 @@ Feel free to check out the full source code [here](KruskalLesson.java).
 Here are some problems for you to practice Kruskal's algorithm. If you need help, feel free to contact us at the [JFSS Computer Science Club Slack channel](https://jfss-compsci.slack.com/).
 
 **Easy**
-- [Disjoint Set Test](#https://dmoj.ca/problem/ds2)
-- [Line Graph](#https://dmoj.ca/problem/dmopc15c6p4)
+- [Disjoint Set Test](https://dmoj.ca/problem/ds2)
+- [Line Graph](https://dmoj.ca/problem/dmopc15c6p4)
 
 **Medium**
-- [Trucking Troubles](#https://dmoj.ca/problem/ccc03s5)
+- [Trucking Troubles](https://dmoj.ca/problem/ccc03s5)
 
 **Hard**
-- [Minimum Cost Flow](#https://dmoj.ca/problem/ccc17s4)
+- [Minimum Cost Flow](https://dmoj.ca/problem/ccc17s4)
 
 *More problems will be added; for up to date information and extra practice please contact us on Slack.*
 
