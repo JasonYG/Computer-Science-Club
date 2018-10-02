@@ -30,11 +30,12 @@ All lessons will be led by club members. Please message me on Slack if you would
 
 Next Meeting
 ---
-Tuesday, Sept. 25 in room 206
+Tuesday, Oct 9 in room 206
 
 Previous Meetings
 ---
 1. **Sept 17** - Introduction to Computer Science Club, club members asked to fill out survey and join the Slack channel.
+2. **Oct 2** - Conditional statements and booleans. Implement factorial and triangle numbers function with recursion.
 
 Useful Downloads
 ---
