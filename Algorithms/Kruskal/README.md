@@ -110,9 +110,11 @@ public int compareTo(Edge o) {
 }
 ```
 
+You may ask, what would happen if you *didn't* implement the *Comparable* interface? For starters, we won't be able to call a **.sort()** on the array. The **.sort()** function wouldn't know which data member of the **Edge** class to sort, that's why we need to explicitly write a **compareTo** method to tell the computer we only want to sort the **Edge**s by cost.
+
 Now it's time to add some of the things we need to store our **Edges** and other stuff related to the MST.
 
-Go ahead and add these variables into your main class:
+Go ahead and add these variables into your **Main** class:
 
 ```Java
 int V; int E; //Number of vertices and edges in the graph
