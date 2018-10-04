@@ -1,5 +1,7 @@
 JFSS-Computer-Science
 ---
+If you're interested in becoming a FraserHacks organizer, applications can be found [here](https://goo.gl/forms/r7SceOrojh4yDNcB3).
+
 This repository contains all the resources used in the John Fraser Computer Science club. 
 
 The link to the powerpoint detailing all club information can be found [here](https://goo.gl/uJyiEY).
@@ -9,6 +11,8 @@ Please fill out [this](https://drive.google.com/open?id=1ZNMRf6A26U0Sfcl_VRzdBuA
 This page will be updated as time goes on.
 
 Please join the [Slack](https://join.slack.com/t/jfss-compsci/shared_invite/enQtNDM3MzY1Mzk1ODExLWYzM2ZjYzA3N2ViYzM5ZmMyZWYxZTMzMDZmMGI2YTllMDY2NDA4ZGY5NmI2MjM3OGY1YWI5ZmY3MmEzOThmODI) channel, the main communication platform that our club will be using.
+
+To code on your browser, please make an account for [repl.it](https://repl.it).
 
 Lesson Scheduling
 ---
@@ -30,17 +34,11 @@ All lessons will be led by club members. Please message me on Slack if you would
 
 Next Meeting
 ---
-Tuesday, Oct 9 in room 206
 
-Previous Meetings
----
-1. **Sept 17** - Introduction to Computer Science Club, club members asked to fill out survey and join the Slack channel.
-2. **Oct 2** - Conditional statements and booleans. Implement factorial and triangle numbers function with recursion.
-
-Useful Downloads
+Useful Resources
 ---
 You can download Python from [here](https://www.python.org/downloads/), the main programming language of Computer Science Club.
 
 You can download GitHub desktop from [here](https://desktop.github.com/), which will be useful in submitting pull requests to the repository.
 
-
+To code on your browser, you can use [repl.it](https://repl.it).
