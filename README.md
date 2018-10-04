@@ -34,6 +34,13 @@ All lessons will be led by club members. Please message me on Slack if you would
 
 Next Meeting
 ---
+Tuesday, Oct. 9 in room 206 after school
+
+Previous Meetings
+---
+1. **Sept 18** - Introduction to Computer Science Club, club members asked to fill out survey and join the Slack channel.
+2. **Sept 25** - Intro to Python, covered [print statements](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/00%20-%20Basics), [data types and variables](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/01%20-%20Input-Output%2C%20Variables%2C%20and%20Data%20Types), and [input](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/01%20-%20Input-Output%2C%20Variables%2C%20and%20Data%20Types).
+3. **Oct 2** - [Conditional statements](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/02%20-%20Conditional%20Statements), covered if, elif, and else statements
 
 Useful Resources
 ---
