@@ -43,7 +43,7 @@ int colEnd = sc.nextInt(); //input integer value of column of destination point
 ```
 Next, we have to declare and initialize the data types used to store the queue and the step array.
 
-However, since we have to store *both* the x- and y-coordinates of the location on the grid, we will make *two* queues: one for the x-coordinates, one for the y-coordinates. Then, we will proceed to add the starting points to their respective queues.
+However, since we have to store *both* the x- and y-coordinates of the location on the grid, we will make *two* queues: one for the x-coordinates, one for the y-coordinates. Then, we will proceed to add the coordinates of the starting points to their respective queues.
 ```Java
 LinkedList<Integer> rowQueue = new LinkedList<Integer>();
 LinkedList<Integer> colQueue = new LinkedList<Integer>();
@@ -97,7 +97,7 @@ if (r - 1 >= 0 && step[r - 1][c] > step[r][c] + 1) {
     step[r - 1][c] = step[r][c] + 1;
 }
 ```
-Now that we have updated our step array for our neighbor, we also need to add the neighbor to the queue. This way, we can proceed to check our neighbor's neighbors, and so on. We will add the x-value to the `rowQueue` and the y-value to the `colQueue`.
+Now that we have updated our step array for our neighbor, we also need to add the neighbor to the queue. This way, we can proceed to check our neighbor's neighbors, and so on. We will add the row value to the `rowQueue` and the column value to the `colQueue`.
 ```Java
 //TOP NEIGHBOR
 if (r - 1 >= 0 && step[r - 1][c] > step[r][c] + 1) {
@@ -131,7 +131,7 @@ if (c - 1 >= 0 && step[r][c - 1] > step[r][c] + 1) {
     step[r][c - 1] = step[r][c] + 1;
 }
 ```
-Afterwards, we can put all of that into a `while` loop, as we have to check the *entire* grid, not just the four neighbors of our starting point. The `while` loop will run until our queue is empty, which means that the whole grid would have been traversed.
+Afterwards, we can put all of that into a `while` loop, as we have to check the *entire* grid, not just the four neighbors of our starting point. The `while` loop will run until our queue is empty, which means that the whole grid will have been traversed.
 ```Java
 while (!rowQueue.isEmpty()) {
     int r = rowQueue.poll();
