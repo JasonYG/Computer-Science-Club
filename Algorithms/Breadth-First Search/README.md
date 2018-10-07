@@ -1,4 +1,5 @@
 # Breadth-First Search
+## Introduction
 Let's say we wanted to find out the minimum number of steps the knight could take to get to the pawn.
 
 <img src="chess.png" width="300">
