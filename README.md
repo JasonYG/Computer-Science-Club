@@ -25,10 +25,11 @@ All lessons will be led by club members. Please message me on Slack if you would
 | Oct 23  | Python Lists                                         | Graph Search Algorithms - Breadth-First       |
 | Oct 30  | ????                                                 | ????                                          |
 | Nov 6   | Python Dictionaries and Intro to Contest Programming | Graph Search Algorithms - Depth-First         |
-| Nov 13  | Functions                                            | Shortest Path Algorithms - Dijkstra's         |
+| Nov 13  | Functions                                            | Minimum Spanning Tree Algorithms - Kruskal's  |
 | Nov 20  | Recursion                                            | Intro to Dynamic Programming                  |
 | Nov 27  | ????                                                 | ????                                          |
-| Dec 4   | Intro to Graph Theory                                | Shortest Path Algorithm - Bellman-Ford        |
+| Dec 4  | Intro to Graph Theory                                 | Shortest Path Algorithms - Dijkstra's         |
+
 
 Next Meeting
 ---
