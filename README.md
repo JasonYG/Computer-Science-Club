@@ -21,19 +21,20 @@ All lessons will be led by club members. Please message me on Slack if you would
 | Sept 25 | Intro to Python                                      | Version Control with Git                      |
 | Oct 2   | Conditional Statements and Booleans                  | Functions and Recursion                       |
 | Oct 9   | **Guest Speaker** - Nikhil Gupta                                                                     |
-| Oct 16  | Looping Structures                                   | Contest Programming and Intro to Graph Theory |
-| Oct 23  | Python Lists                                         | Graph Search Algorithms - Breadth-First       |
+| Oct 16  | _Meeting Cancelled_                                                                                  |
+| Oct 23  | Looping Structures                                   | Contest Programming and Intro to Graph Theory |
 | Oct 30  | ????                                                 | ????                                          |
-| Nov 6   | Python Dictionaries and Intro to Contest Programming | Graph Search Algorithms - Depth-First         |
-| Nov 13  | Functions                                            | Minimum Spanning Tree Algorithms - Kruskal's  |
-| Nov 20  | Recursion                                            | Intro to Dynamic Programming                  |
-| Nov 27  | ????                                                 | ????                                          |
-| Dec 4  | Intro to Graph Theory                                 | Shortest Path Algorithms - Dijkstra's         |
+| Nov 6   | Python Lists                                         | Graph Search Algorithms - Breadth-First       |
+| Nov 13   | Python Dictionaries and Intro to Contest Programming | Graph Search Algorithms - Depth-First         |
+| Nov 20  | Functions                                            | Minimum Spanning Tree Algorithms - Kruskal's  |
+| Nov 27  | Recursion                                            | Intro to Dynamic Programming                  |
+| Dec 4  | ????                                                 | ????                                          |
+| Dec 11  | Intro to Graph Theory                                 | Shortest Path Algorithms - Dijkstra's         |
 
 
 Next Meeting
 ---
-Tuesday, Oct. 16 in room 206 after school
+Tuesday, Oct. 23 in room 206 after school
 
 Previous Meetings
 ---
@@ -41,6 +42,7 @@ Previous Meetings
 2. **Sept 25** - Intro to Python, covered [print statements](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/00%20-%20Basics), [data types and variables](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/01%20-%20Input-Output%2C%20Variables%2C%20and%20Data%20Types), and [input](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/01%20-%20Input-Output%2C%20Variables%2C%20and%20Data%20Types).
 3. **Oct 2** - [Conditional statements](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/02%20-%20Conditional%20Statements), covered if, elif, and else statements
 4. **Oct 9** - Guest Speaker with former JFSS student, Nikhil Gupta
+5. **Oct 16** - _Meeting cancelled_
 
 Useful Resources
 ---
