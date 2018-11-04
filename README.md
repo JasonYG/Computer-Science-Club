@@ -34,7 +34,7 @@ All lessons will be led by club members. Please message me on Slack if you would
 
 Next Meeting
 ---
-Tuesday, Oct. 23 in room 206 after school
+Tuesday, Nov. 6 in room 206 after school
 
 Previous Meetings
 ---
@@ -43,6 +43,7 @@ Previous Meetings
 3. **Oct 2** - [Conditional statements](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/02%20-%20Conditional%20Statements), covered if, elif, and else statements
 4. **Oct 9** - Guest Speaker with former JFSS student, Nikhil Gupta
 5. **Oct 16** - _Meeting cancelled_
+6. **Oct 30** - S.P.OO.K. Programming Challenge. The questions can be found [here](https://drive.google.com/open?id=1aAGEjZ1-BLZF090NRUaxOOGBmt2bm8P2).
 
 Useful Resources
 ---
