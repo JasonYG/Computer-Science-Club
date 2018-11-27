@@ -23,18 +23,16 @@ All lessons will be led by club members. Please message me on Slack if you would
 | Oct 9   | **Guest Speaker** - Nikhil Gupta                                                                     |
 | Oct 16  | _Meeting Cancelled_                                                                                  |
 | Oct 23  | Looping Structures                                   | Contest Programming and Intro to Graph Theory |
-| Oct 30  | ????                                                 | ????                                          |
-| Nov 6   | Python Lists                                         | Graph Search Algorithms - Breadth-First       |
-| Nov 13   | Python Dictionaries and Intro to Contest Programming | Graph Search Algorithms - Depth-First         |
-| Nov 20  | Functions                                            | Minimum Spanning Tree Algorithms - Kruskal's  |
-| Nov 27  | Recursion                                            | Intro to Dynamic Programming                  |
-| Dec 4  | ????                                                 | ????                                          |
-| Dec 11  | Intro to Graph Theory                                 | Shortest Path Algorithms - Dijkstra's         |
+| Oct 30  | S.P.OO.K. Programming Competition                                                                    |
+| Nov 6   | Python Lists                                         |                                               |
+| Nov 13  | Python Functions                                     | Halite.io                                     |
+| Nov 20  | Functions                                            |                                               |
+| Nov 27  | Dictionary                                           |                                               |
 
 
 Next Meeting
 ---
-Tuesday, Nov. 6 in room 206 after school
+Tuesday, Nov. 27 in room 206 after school
 
 Previous Meetings
 ---
@@ -44,6 +42,8 @@ Previous Meetings
 4. **Oct 9** - Guest Speaker with former JFSS student, Nikhil Gupta
 5. **Oct 16** - _Meeting cancelled_
 6. **Oct 30** - S.P.OO.K. Programming Challenge. The questions can be found [here](https://drive.google.com/open?id=1aAGEjZ1-BLZF090NRUaxOOGBmt2bm8P2).
+7. **Nov 6** - Learned about [Python lists](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/04%20-%20Lists).
+8. **Nov 13** - Covered functions in Python, as well as the [Halite programming challenge](https://halite.io/about/).
 
 Useful Resources
 ---
