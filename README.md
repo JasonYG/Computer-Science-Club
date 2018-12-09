@@ -23,16 +23,15 @@ All lessons will be led by club members. Please message me on Slack if you would
 | Oct 9   | **Guest Speaker** - Nikhil Gupta                                                                     |
 | Oct 16  | _Meeting Cancelled_                                                                                  |
 | Oct 23  | Looping Structures                                   | Contest Programming and Intro to Graph Theory |
-| Oct 30  | S.P.OO.K. Programming Competition                                                                    |
+| Oct 30  | S.P.OO.K. Programming Competition                    |                                               |
 | Nov 6   | Python Lists                                         |                                               |
-| Nov 13  | Python Functions                                     | Halite.io                                     |
-| Nov 20  | Functions                                            |                                               |
-| Nov 27  | Dictionary                                           |                                               |
+| Nov 20  | Functions                                            | Introduction to Halite                        |
+| Nov 27  | Dictionary                                           | Making a bot in Halite                        |
 
 
 Next Meeting
 ---
-Tuesday, Nov. 27 in room 206 after school
+Tuesday, Dec. 11 in room 206 after school
 
 Previous Meetings
 ---
@@ -43,8 +42,8 @@ Previous Meetings
 5. **Oct 16** - _Meeting cancelled_
 6. **Oct 30** - S.P.OO.K. Programming Challenge. The questions can be found [here](https://drive.google.com/open?id=1aAGEjZ1-BLZF090NRUaxOOGBmt2bm8P2).
 7. **Nov 6** - Learned about [Python lists](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/04%20-%20Lists).
-8. **Nov 13** - Covered functions in Python, as well as the [Halite programming challenge](https://halite.io/about/).
-
+8. **Nov 20** - Covered functions in Python, as well as the [Halite programming challenge](https://halite.io/about/).
+9. **Nov 27** - Learned about [Python dictionaries](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/05%20-%20Dictionaries) and how to make a basic bot in Halite.
 Useful Resources
 ---
 You can download Python from [here](https://www.python.org/downloads/), the main programming language of Computer Science Club.
