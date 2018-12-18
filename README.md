@@ -20,14 +20,15 @@ All lessons will be led by club members. Please message me on Slack if you would
 |---------|------------------------------------------------------|-----------------------------------------------|
 | Sept 25 | Intro to Python                                      | Version Control with Git                      |
 | Oct 2   | Conditional Statements and Booleans                  | Functions and Recursion                       |
-| Oct 9   | **Guest Speaker** - Nikhil Gupta                                                                     |
-| Oct 16  | _Meeting Cancelled_                                                                                  |
+| Oct 9   | **Guest Speaker** - Nikhil Gupta                     |                                               |
+| Oct 16  | _Meeting Cancelled_                                  |                                               |
 | Oct 23  | Looping Structures                                   | Contest Programming and Intro to Graph Theory |
 | Oct 30  | S.P.OO.K. Programming Competition                    |                                               |
 | Nov 6   | Python Lists                                         |                                               |
 | Nov 20  | Functions                                            | Introduction to Halite                        |
 | Nov 27  | Dictionary                                           | Making a bot in Halite                        |
-
+| Dec 4   | Dictionaries Continued                               |                                               | 
+| Dec 11  | Introduction to the Year Long Group Project          | Introduction to HTML and CSS                  |
 
 Next Meeting
 ---
