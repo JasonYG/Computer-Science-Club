@@ -29,6 +29,7 @@ All lessons will be led by club members. Please message me on Slack if you would
 | Nov 27  | Dictionary                                           | Making a bot in Halite                        |
 | Dec 4   | Dictionaries Continued                               |                                               | 
 | Dec 11  | Introduction to the Year Long Group Project          | Introduction to HTML and CSS                  |
+| Dec 18  | **Special Tournament**                               |                                               |
 
 Next Meeting
 ---
@@ -46,6 +47,9 @@ Previous Meetings
 8. **Nov 20** - Covered functions in Python, as well as the [Halite programming challenge](https://halite.io/about/).
 9. **Nov 27** - Learned about [Python dictionaries](https://github.com/JasonYG/Computer-Science-Club/tree/master/Introduction%20to%20Python/05%20-%20Dictionaries) and how to make a basic bot in Halite.
 Useful Resources
+10. **Dec 4** - Continued the lesson on dictionaries.
+11. **Dec 11** - Introduced the Year Long Group Project, and learned about the basics of HTML and CSS (resource coming soon).
+12. **Dec 18** - Had a special surviv2.io tournament to close off the year.
 ---
 You can download Python from [here](https://www.python.org/downloads/), the main programming language of Computer Science Club.
 
