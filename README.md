@@ -33,7 +33,7 @@ All lessons will be led by club members. Please message me on Slack if you would
 
 Next Meeting
 ---
-Tuesday, Dec. 11 in room 206 after school
+Tuesday, Feb. 12 in room 206 after school
 
 Previous Meetings
 ---
