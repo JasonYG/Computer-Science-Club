@@ -33,7 +33,7 @@ All lessons will be led by club members. Please message me on Slack if you would
 
 Next Meeting
 ---
-Tuesday, Feb. 12 in room 206 after school
+Tuesday, Feb. 26 in room 206 after school
 
 Previous Meetings
 ---
@@ -50,6 +50,7 @@ Useful Resources
 10. **Dec 4** - Continued the lesson on dictionaries.
 11. **Dec 11** - Introduced the Year Long Group Project, and learned about the basics of HTML and CSS (resource coming soon).
 12. **Dec 18** - Had a special surviv2.io tournament to close off the year.
+13. **Feb 19** - Prepared for the CCC.
 ---
 You can download Python from [here](https://www.python.org/downloads/), the main programming language of Computer Science Club.
 
