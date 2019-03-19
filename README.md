@@ -30,10 +30,12 @@ All lessons will be led by club members. Please message me on Slack if you would
 | Dec 4   | Dictionaries Continued                               |                                               | 
 | Dec 11  | Introduction to the Year Long Group Project          | Introduction to HTML and CSS                  |
 | Dec 18  | **Special Tournament**                               |                                               |
-
+| Feb 19  | CCC Preparation                                      |                                               |
+| Feb 26  | Administrative Information                           |                                               |
+| Mar 5   | ECOO Tryouts                                         |                                               |
 Next Meeting
 ---
-Tuesday, Feb. 26 in room 206 after school
+Tuesday, Mar. 26 in room 206 after school
 
 Previous Meetings
 ---
@@ -51,6 +53,8 @@ Useful Resources
 11. **Dec 11** - Introduced the Year Long Group Project, and learned about the basics of HTML and CSS (resource coming soon).
 12. **Dec 18** - Had a special surviv2.io tournament to close off the year.
 13. **Feb 19** - Prepared for the CCC.
+14. **Feb 26** - Discussed administrative information; sweater designs and upcoming ECOO competition.
+15. **Mar 5** - Held ECOO tryouts and took the club picture.
 ---
 You can download Python from [here](https://www.python.org/downloads/), the main programming language of Computer Science Club.
 
