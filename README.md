@@ -33,6 +33,7 @@ All lessons will be led by club members. Please message me on Slack if you would
 | Feb 19  | CCC Preparation                                      |                                               |
 | Feb 26  | Administrative Information                           |                                               |
 | Mar 5   | ECOO Tryouts                                         |                                               |
+
 Next Meeting
 ---
 Tuesday, Mar. 26 in room 206 after school
